@@ -1,2 +1,2 @@
-# CSCI441
-This repo is the group project for CSCI441 Software Engineering
+# Computing Ecosystem
+A repository collection of exercises applied in <b>The Missing Semester of Your CS Education</b> by MIT
